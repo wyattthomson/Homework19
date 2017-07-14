@@ -5,6 +5,8 @@ import {
 	Grid
 } from 'react-bootstrap';
 
+import Scraper from './scraper';
+
 export default class Header extends Component {
 	render() {
 		return(
