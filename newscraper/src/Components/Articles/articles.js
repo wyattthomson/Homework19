@@ -3,6 +3,7 @@ import {
 	Panel,
 	Grid
 } from 'react-bootstrap';
+import mongoose from "mongoose";
 
 export default class Articles extends Component {
 	render() {
